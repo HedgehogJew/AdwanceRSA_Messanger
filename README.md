@@ -30,13 +30,15 @@ Implementation of the messenger with RSA and GOST28147 encryption, based on Boos
 Для запуска сервера выполните:
 
 bash
-./build/bin/testServer
+
+    ./build/bin/testServer
 
 Запуск клиента
 Для запуска клиента выполните:
 
 bash
-./build/bin/testClient
+
+    ./build/bin/testClient
 
 Технологии
 
